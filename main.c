@@ -70,6 +70,7 @@ static void MX_I2C1_Init(void);
 /* Private user code ---------------------------------------------------------*/
 /* USER CODE BEGIN 0 */
 
+// Obsługa wyświetlacza LCD
 #include "lcd.h"
 
 void blink(void){
